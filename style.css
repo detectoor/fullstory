@@ -1,0 +1,19 @@
+.body{
+	text-align: center;
+}
+.logo{
+	width: 180px;
+}
+input{
+	width: 508px;
+	height: 35px;
+	font-size: 16px;
+}
+button{
+	width: 515px;
+	height: 42px;
+	background-color: #448EE1;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+}
